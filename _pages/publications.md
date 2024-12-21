@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-(\#: equal distribution)
+(\#: indicates co-first author)
 
 [//]: - **Ziyan Rao**\#, Min Zhang\#, Shaodong Huang, Chenyang Wu, Yuheng Zhou, Weijie Zhang, Xia Lin, Dongyu Zhao. CADTAD: CAncer Driver Topologically Associated Domains identify oncogenic and tumor suppressivelncRNAs. Genome Res. (in revision) [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.03.19.585685v1)
 [//]: - **Ziyan Rao**, Chenyang Wu, Yunxi Liao, Chuan Ye, Shaodong Huang, Dongyu Zhao. POCALI: Prediction and insight On CAncer LncRNAs by Integrating multi-omics data with machine learning. Small Methods. (under review) [Github](https://github.com/starrzy/POCALI)
