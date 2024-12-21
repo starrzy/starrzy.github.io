@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* Ph.D in Biomedical Informatics, Peking University, 2025 (expected)
+* Ph.D. in Biomedical Informatics, Peking University, 2025 (expected)
 * B.S. in Science (double degree: Mathematics and Applied Mathematics), Peking University, 2022
 * B.S. in Medicine, Peking University, 2022
 
