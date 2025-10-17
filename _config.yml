@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ziyan Rao"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Biomedical Informatics" #"Ph.D. candidate"
+  bio              : "Ph.D.(Biomedical Informatics)" #"Ph.D. candidate"
   location         : "Worcester" #"Beijing"
   employer         : "UMass Chan Medical School" #"Peking University"
   uri              : # URL
