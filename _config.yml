@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D." #"Ph.D. candidate"
   location         : "Worcester" #"Beijing"
   employer         : "UMass Chan Medical School" #"Peking University"
-  uri              : "https://www.umassmed.edu/" # URL
+  uri              : # URL
   email            : "Ziyan.Rao2@umassmed.edu" #"raoziyan@pku.edu.cn" 
 
   # Academic websites
