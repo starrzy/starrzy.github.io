@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+### Employment
+* PostDoc, UMass Chan Medical School, 2025-
+
 ### Education
-* Ph.D. in Biomedical Informatics, Peking University, 2025 (expected)
-* B.S. in Science (double degree: Mathematics and Applied Mathematics), Peking University, 2022
-* B.S. in Medicine, Peking University, 2022
+* Ph.D. in Biomedical Informatics, Peking University, 2022-2025 
+* B.S. in Science (double degree: Mathematics and Applied Mathematics), Peking University, 2019-2022
+* B.S. in Medicine, Peking University, 2017-2022
 
 ### Honors and Awards
 * 2024 Peking University Outstanding Scientific Research Award
