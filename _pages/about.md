@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc at UMass Chan Medical School in [Weng Lab](https://www.umassmed.edu/zlab/). I'm interested in exploring 3D genome and epigenome changes in diseases and developing computational tools for understanding the difference in gene regulation.
+I am a Postdoc at UMass Chan Medical School in [Weng Lab](https://www.umassmed.edu/zlab/). I'm interested in exploring 3D genome and epigenome changes in diseases and developing computational tools for understanding the difference in gene regulation. \
 I received my Ph.D. degree in Biomedical Informatics from Peking University in [Zhao Lab](https://www.labxing.com/med.bio_zhao), where I focused on identifying and understanding cancer lncRNAs through the integration of multi-omics data and machine learning approaches. \
 In my free time, I enjoy badminton, hip-hop, and watching movies.
 
